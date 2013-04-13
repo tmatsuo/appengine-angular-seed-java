@@ -1,4 +1,4 @@
-appengine-spring-angular-example
-================================
+appengine-angular-seed-java
+===========================
 
-A sample application with Spring framework and angularjs
+A initial setup for Angularjs and App Engine Java
