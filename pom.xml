@@ -23,8 +23,8 @@
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
 
-  <groupId>com.google.appengine.demos</groupId>
-  <artifactId>spring-angular-example</artifactId>
+  <groupId>com.google.appengine.samples</groupId>
+  <artifactId>appengine-angular-seed</artifactId>
 
   <properties>
     <appengine.app.version>1</appengine.app.version>

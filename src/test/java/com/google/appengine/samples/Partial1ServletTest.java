@@ -14,7 +14,7 @@
  * permissions and limitations under the License.
  */
 
-package com.google.appengine.demos;
+package com.google.appengine.samples;
 
 import static junit.framework.Assert.assertEquals;
 import static org.mockito.Mockito.mock;
